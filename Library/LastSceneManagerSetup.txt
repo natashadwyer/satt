@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Lesson 1.5/Scenes/Lesson 1.5 - End Product.unity
+  isLoaded: 1
+  isActive: 1

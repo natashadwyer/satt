@@ -1,0 +1,1 @@
+git remote add origin https://github.com/natashadwyer/expo.gitgit remote -v1. To navigate into the root directory, use "cd /"2. To navigate to your home directory, use "cd" or "cd ~"3. To navigate up one directory level, use "cd .."4. To navigate to the previous directory (or back), use "cd -"
